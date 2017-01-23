@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<dict>
+		<key>com.kenneth.project6.iap50</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<integer>50</integer>
+			<key>ConsumableId</key>
+			<string>Krones</string>
+		</dict>
+		<key>com.kenneth.project6.iap500</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<integer>500</integer>
+			<key>ConsumableId</key>
+			<string>Krones</string>
+		</dict>
+		<key>com.kenneth.project6.iap25</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<integer>25</integer>
+			<key>ConsumableId</key>
+			<string>Krones</string>
+		</dict>
+		<key>com.kenneth.project6.iap250</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<integer>250</integer>
+			<key>ConsumableId</key>
+			<string>Krones</string>
+		</dict>
+	</dict>
+	<key>SharedSecret</key>
+	<string>50bb037e9c7a4b689a9409ef6553183d</string>
+</dict>
+</plist>

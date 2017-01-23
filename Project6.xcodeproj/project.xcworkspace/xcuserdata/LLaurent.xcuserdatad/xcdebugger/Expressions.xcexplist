@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__47-[LocationPickerViewController displayAddress:]_block_invoke:LocationPickerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "placemark.addressDictionary">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[VPImageCropperViewController initView]:VPImageCropperViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.largeFrame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileViewController viewDidLoad]:ProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalPool sharedInstance].about_me">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__50-[RootFriendProfileViewController btnFlagClicked:]_block_invoke:RootFriendProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[PFUser currentUser][PF_USER_EMAIL]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
